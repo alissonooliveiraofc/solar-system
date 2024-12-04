@@ -1,10 +1,12 @@
+import './styles.css';
+
 type TitleProps = {
   headline: string;
 };
 
 function Title({ headline }: TitleProps) {
   return (
-    <h2>{headline}</h2>
+    <h2 id="planet-title">{headline}</h2>
   );
 }
 

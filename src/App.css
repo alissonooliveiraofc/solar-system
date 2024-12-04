@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
   
@@ -6,4 +12,37 @@
 body {
   background-image: url('./images/background.png');
   color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .line {
+  position: relative;
+  width: 1200px;
+  border: 1px solid #FFFFFF;
+  top: 17%;
+  z-index: 1;
+} */
+
+.card-container {
+  display: flex;
+  margin-top: 70px;
+  justify-content: center;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+}
+
+.card img {
+  position: absolute;
+  width: 150px;
+}
+
+#root {
+  height: 100%;
 }
