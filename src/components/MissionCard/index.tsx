@@ -1,6 +1,6 @@
 type MissionCardProps = {
   name: string;
-  year: number;
+  year: string;
   country: string;
   destination: string;
 };
