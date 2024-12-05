@@ -23,3 +23,7 @@
   width: 15px;
 } */
 
+.card-container {
+  display: flex;
+  flex-direction: row;
+}

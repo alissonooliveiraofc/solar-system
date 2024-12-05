@@ -1,5 +1,10 @@
 .card {
   text-align: center;
-
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
 }
 
+.card img {
+  width: 240px;
+}
