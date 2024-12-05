@@ -19,29 +19,16 @@ body {
   align-items: center;
 }
 
-/* .line {
+.line {
+  border: 1px solid white;
   position: relative;
-  width: 1200px;
-  border: 1px solid #FFFFFF;
-  top: 17%;
-  z-index: 1;
-} */
+  top: 107px;
+  z-index: -1;
+}
 
-/* .card-container {
-  display: flex;
-  margin-top: 70px;
-  justify-content: center;
-  width: 100%;
-} */
-
-/* .container {
-  width: 100%;
-} */
-
-/* .card img {
-  position: absolute;
-  width: 150px;
-} */
+.card-container {
+  z-index: 0;
+}
 
 #root {
   height: 100%;

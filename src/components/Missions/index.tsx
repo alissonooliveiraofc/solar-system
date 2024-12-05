@@ -1,10 +1,11 @@
 import Title from '../Title';
 import MissionCard from '../MissionCard';
 import missions from '../../data/missions';
+import './styles.css';
 
 function Missions() {
   return (
-    <div data-testid="missions">
+    <div id="missoes" data-testid="missions">
       <Title headline="Missões" />
       {missions.map(({ name, year, country, destination }) => (
         <MissionCard

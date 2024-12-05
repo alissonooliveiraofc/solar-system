@@ -1,29 +1,9 @@
-/* .container {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  
-} */
-
-/* .card {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-  flex-direction: column-reverse;
-  align-items: center;
-} */
-
-/* .card-container {
-  display: flex;
-  width: 100%;
-  justify-content: center;
-} */
-
-/* .card img {
-  width: 15px;
-} */
-
 .card-container {
   display: flex;
   flex-direction: row;
+  /* margin: auto; */
+  margin-top: 50px;
+  margin-left: -700x;
+  width: 100%;
+  justify-content: center;
 }
