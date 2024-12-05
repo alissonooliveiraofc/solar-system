@@ -27,22 +27,23 @@ body {
   z-index: 1;
 } */
 
-.card-container {
+/* .card-container {
   display: flex;
   margin-top: 70px;
   justify-content: center;
   width: 100%;
-}
+} */
 
-.container {
+/* .container {
   width: 100%;
-}
+} */
 
-.card img {
+/* .card img {
   position: absolute;
   width: 150px;
-}
+} */
 
 #root {
   height: 100%;
+  width: 100%;
 }
