@@ -42,3 +42,8 @@ body {
 #planet-title {
   font-weight: bold;
 }
+
+.icon {
+  position: relative;
+  left: -10px;
+}

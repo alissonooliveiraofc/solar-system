@@ -47,3 +47,7 @@
   margin: 5px;
   font-weight: bold;
 }
+
+.card-container2 > img {
+  gap: 15px;
+}
