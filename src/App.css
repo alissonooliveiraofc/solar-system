@@ -34,3 +34,11 @@ body {
   height: 100%;
   width: 100%;
 }
+
+/* .container > h2:first-child {
+  font-weight: bold;
+} */
+
+#planet-title {
+  font-weight: bold;
+}
