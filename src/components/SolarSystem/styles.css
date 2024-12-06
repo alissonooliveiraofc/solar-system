@@ -7,3 +7,15 @@
   width: 100%;
   justify-content: center;
 }
+
+@media screen and (max-width: 768px) {
+  .card-container {
+    flex-direction: row;
+    overflow-x: scroll;
+    flex-wrap: wrap;
+  }
+
+  .line {
+    display: none;
+  }
+}
