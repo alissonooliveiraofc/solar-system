@@ -2,6 +2,10 @@
 
 Bem-vindo ao projeto **Solar System!**! Este projeto é uma aplicação web que exibe informações sobre missões espaciais e as tecnologias utilizadas. Foi desenvolvido como parte do curso de Desenvolvimento Web da _Trybe_.
 
+## Veja o projeto pronto! 🌍
+
+- Para ver o projeto [clique aqui](https://solarsystemplanets.vercel.app/).
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
@@ -54,4 +58,4 @@ Para mais informações, entre em contato pelo [LinkedIn](https://www.linkedin.c
 
 ---
 
-Desenvolvido por Alisson Oliveira.
+Desenvolvido 💚 por **Alisson Oliveira**.
